@@ -1,5 +1,6 @@
 # Ran_Pass_Gen
-hi,
+Hi,
+
 A password generator is a Random Password generating program that produces a password with a combination of upper and lowercase letters, numbers, and symbols that is strong enough to give high protection. The first issue is security.
 
 ![Screenshot (61)](https://user-images.githubusercontent.com/71726952/142728059-33b7aa1c-7b64-4eb1-a872-f2dc605fb54e.png)
